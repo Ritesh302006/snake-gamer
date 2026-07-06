@@ -1,0 +1,6 @@
+{
+  "name": "Snake Gamer",
+  "description": "A modern, futuristic Snake game featuring an AI pathfinding mode, responsive design, and glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
